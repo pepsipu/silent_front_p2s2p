@@ -1,0 +1,17 @@
+{
+  "name": "rts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "websocket": "^1.0.31",
+    "websockets": "^0.2.0",
+    "ws": "^7.2.1"
+  }
+}
